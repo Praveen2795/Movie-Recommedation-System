@@ -68,4 +68,4 @@ collaborative filtering:
 
 ## Credits:
 
-- <a href="https://java-programming.mooc.fi//">Helsinki’s Mooc-fi</a> for tutorials and free resources
+- <a href="https://grouplens.org/">Helsinki’s Mooc-fi</a> for free resources
