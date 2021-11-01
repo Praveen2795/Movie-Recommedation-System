@@ -1,2 +1,2 @@
 # Movie-Recommedation-System-DRAFT
-Repository will contain the files for the final project for the DSCI course at RIT MS DS - Fall 2021. Please pull the code from this server and work if necessary  
+Repository will contain the files for the DSCI final project for MS DS at RIT - Fall 2021. Please pull the code from this server and work if necessary  
