@@ -1,4 +1,4 @@
-<h1 align="center">Movie Recommendation System 🎬</h1>
+<h1 align="center">Movie Recommendation System 🎬🎥🎞️</h1>
 
 ## Purpose of Repository:
 Repository will contain the files for the DSCI final project for MS DS at RIT - Fall 2021. Please pull the code from this server and work if necessary  
