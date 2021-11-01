@@ -56,6 +56,7 @@ has expanded its scope to research overall information filtering solutions,
 integrating in content-based methods as well as improving current collaborative 
 filtering technology.
 
+## Credits:
 Further information on the GroupLens Research project, including research 
 publications, can be found at the following web site:
         
@@ -65,7 +66,3 @@ GroupLens Research currently operates a movie recommender based on
 collaborative filtering:
 
         http://www.movielens.org/
-
-## Credits:
-
-- <a href="https://grouplens.org/">Helsinki’s Mooc-fi</a> for free resources
