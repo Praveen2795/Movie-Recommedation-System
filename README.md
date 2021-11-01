@@ -1,7 +1,7 @@
 <h1 align="center">Movie Recommendation System 🎬🎥🎞️</h1>
 
 ## Purpose of Repository:
-Repository will contain the files for the DSCI final project for MS DS at RIT - Fall 2021. Please pull the code from this server and work if necessary  
+Repository will contain files for the DSCI final project, part of MS DS course work at RIT - Fall 2021. Please pull the code from this server and work if necessary  
 
 ## About Data sourse:
 Data files contain 1,000,209 anonymous ratings of approximately 3,900 movies 
