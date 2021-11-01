@@ -4,11 +4,8 @@
 Repository will contain the files for the DSCI final project for MS DS at RIT - Fall 2021. Please pull the code from this server and work if necessary  
 
 ## About Data sourse:
-
 Data files contain 1,000,209 anonymous ratings of approximately 3,900 movies 
 made by 6,040 MovieLens users who joined MovieLens in 2000.
-
-University of Helsinki’s provides a free massive open online course (MOOC) on programming. You can find an updated version of their popular course Object-Oriented Programming with Java. The link to their website is provided below under the credits section. During this course, you will learn the basics of computer programming, along with algorithms and object-oriented programming through the Java programming language. I have had a great experience using their resources to learn Java. The course includes comprehensive materials and plenty of programming exercises - all of which are tested using their automatic testing service "Test My Code". I will recommend the beginner to Computer Science and also the induviduals who are looking to upgrade their skills to sign up with their free course.
 
 ## CITATION:
 To acknowledge use of the dataset in publications, please cite the following
