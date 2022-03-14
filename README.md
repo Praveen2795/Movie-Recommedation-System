@@ -150,14 +150,6 @@ For collaborative-filtering model search for the following code snippet like men
             {'title':'Akira (1988)', 'rating':5}
          ] 
 
-## Project members:
-
-[Amit Dilip Kini](mailto:ak3328@rit.edu) <br/>
-[Ashini Anantharaman](mailto:aa9162@rit.edu) <br/>
-[Niranjana Sathish Avilery](mailto:na6322@rit.edu) <br/>
-[Praveen Chandrasekaran](mailto:pc2846@rit.edu) <br/>
-[Vigneshwaran Ravichandran](mailto:vr9965@rit.edu) <br/>
-
 ## Data usage license:
 Neither the University of Minnesota nor any of the researchers
 involved can guarantee the correctness of the data, its suitability
